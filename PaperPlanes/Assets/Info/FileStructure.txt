@@ -1,0 +1,15 @@
+PlayerPrefs
+
+Completed level = Difficulty World - level (i.e. RelaxedWorld1-1/2/3, ChallengingWorld2-3)
+
+World1 - CanyonLarge
+World2 - RollingHills
+World3 - CanyonRun
+
+Level checklist
+Terrain
+Checkpoints
+Level/StartPos
+UI
+WorldLight
+CamFollow

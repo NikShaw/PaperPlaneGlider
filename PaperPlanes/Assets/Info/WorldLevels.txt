@@ -1,0 +1,6 @@
+World1 -> CanyonLarge
+World2 -> RollingHils
+World3 -> CanyonRun
+World4 -> MountainRange
+World5 -> WaterCliffs
+World6 -> 
